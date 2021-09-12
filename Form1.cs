@@ -19,7 +19,7 @@ namespace MatchGame
         {
             InitializeComponent();
         }
-
+        //drawing grid
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             if (oGrid != null)
